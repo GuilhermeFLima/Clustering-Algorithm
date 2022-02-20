@@ -1,0 +1,433 @@
+"/Users/gflima/PycharmProjects/Cluster Analysis/venv/bin/python" "/Users/gflima/PycharmProjects/Cluster Analysis/test.py"
+Method: complete
+
+number of clusters: 2
+	 size: 15
+	 	 mergefactor: 0
+	 	 	 subspace dimension: 5
+	 	 	 	 Correct number of clusters: 94
+	 	 	 	 Correct sizes of clusters: 94
+	 	 	 	 Average size error: 0.33
+
+	 	 	 subspace dimension: 10
+	 	 	 	 Correct number of clusters: 98
+	 	 	 	 Correct sizes of clusters: 98
+	 	 	 	 Average size error: 0.10
+
+	 	 	 subspace dimension: 15
+	 	 	 	 Correct number of clusters: 99
+	 	 	 	 Correct sizes of clusters: 99
+	 	 	 	 Average size error: 0.05
+
+	 	 	 subspace dimension: 20
+	 	 	 	 Correct number of clusters: 99
+	 	 	 	 Correct sizes of clusters: 99
+	 	 	 	 Average size error: 0.05
+
+	 	 mergefactor: 1
+	 	 	 subspace dimension: 5
+	 	 	 	 Correct number of clusters: 48
+	 	 	 	 Correct sizes of clusters: 5
+	 	 	 	 Average size error: 6.23
+
+	 	 	 subspace dimension: 10
+	 	 	 	 Correct number of clusters: 62
+	 	 	 	 Correct sizes of clusters: 16
+	 	 	 	 Average size error: 5.05
+
+	 	 	 subspace dimension: 15
+	 	 	 	 Correct number of clusters: 61
+	 	 	 	 Correct sizes of clusters: 21
+	 	 	 	 Average size error: 4.65
+
+	 	 	 subspace dimension: 20
+	 	 	 	 Correct number of clusters: 69
+	 	 	 	 Correct sizes of clusters: 30
+	 	 	 	 Average size error: 3.67
+
+	 	 mergefactor: 2
+	 	 	 subspace dimension: 5
+	 	 	 	 Correct number of clusters: 26
+	 	 	 	 Correct sizes of clusters: 3
+	 	 	 	 Average size error: 7.32
+
+	 	 	 subspace dimension: 10
+	 	 	 	 Correct number of clusters: 38
+	 	 	 	 Correct sizes of clusters: 7
+	 	 	 	 Average size error: 5.70
+
+	 	 	 subspace dimension: 15
+	 	 	 	 Correct number of clusters: 53
+	 	 	 	 Correct sizes of clusters: 12
+	 	 	 	 Average size error: 5.33
+
+	 	 	 subspace dimension: 20
+	 	 	 	 Correct number of clusters: 61
+	 	 	 	 Correct sizes of clusters: 17
+	 	 	 	 Average size error: 4.51
+
+	 	 mergefactor: 3
+	 	 	 subspace dimension: 5
+	 	 	 	 Correct number of clusters: 23
+	 	 	 	 Correct sizes of clusters: 3
+	 	 	 	 Average size error: 7.76
+
+	 	 	 subspace dimension: 10
+	 	 	 	 Correct number of clusters: 46
+	 	 	 	 Correct sizes of clusters: 3
+	 	 	 	 Average size error: 6.22
+
+	 	 	 subspace dimension: 15
+	 	 	 	 Correct number of clusters: 44
+	 	 	 	 Correct sizes of clusters: 4
+	 	 	 	 Average size error: 6.09
+
+	 	 	 subspace dimension: 20
+	 	 	 	 Correct number of clusters: 50
+	 	 	 	 Correct sizes of clusters: 7
+	 	 	 	 Average size error: 5.67
+
+	 	 mergefactor: 4
+	 	 	 subspace dimension: 5
+	 	 	 	 Correct number of clusters: 20
+	 	 	 	 Correct sizes of clusters: 3
+	 	 	 	 Average size error: 7.83
+
+	 	 	 subspace dimension: 10
+	 	 	 	 Correct number of clusters: 20
+	 	 	 	 Correct sizes of clusters: 1
+	 	 	 	 Average size error: 7.56
+
+	 	 	 subspace dimension: 15
+	 	 	 	 Correct number of clusters: 37
+	 	 	 	 Correct sizes of clusters: 5
+	 	 	 	 Average size error: 6.42
+
+	 	 	 subspace dimension: 20
+	 	 	 	 Correct number of clusters: 36
+	 	 	 	 Correct sizes of clusters: 7
+	 	 	 	 Average size error: 6.17
+
+number of clusters: 3
+	 size: 15
+	 	 mergefactor: 0
+	 	 	 subspace dimension: 5
+	 	 	 	 Correct number of clusters: 93
+	 	 	 	 Correct sizes of clusters: 93
+	 	 	 	 Average size error: 0.33
+
+	 	 	 subspace dimension: 10
+	 	 	 	 Correct number of clusters: 98
+	 	 	 	 Correct sizes of clusters: 98
+	 	 	 	 Average size error: 0.07
+
+	 	 	 subspace dimension: 15
+	 	 	 	 Correct number of clusters: 93
+	 	 	 	 Correct sizes of clusters: 93
+	 	 	 	 Average size error: 0.26
+
+	 	 	 subspace dimension: 20
+	 	 	 	 Correct number of clusters: 97
+	 	 	 	 Correct sizes of clusters: 97
+	 	 	 	 Average size error: 0.14
+
+	 	 mergefactor: 1
+	 	 	 subspace dimension: 5
+	 	 	 	 Correct number of clusters: 23
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 6.42
+
+	 	 	 subspace dimension: 10
+	 	 	 	 Correct number of clusters: 29
+	 	 	 	 Correct sizes of clusters: 4
+	 	 	 	 Average size error: 5.98
+
+	 	 	 subspace dimension: 15
+	 	 	 	 Correct number of clusters: 42
+	 	 	 	 Correct sizes of clusters: 6
+	 	 	 	 Average size error: 5.24
+
+	 	 	 subspace dimension: 20
+	 	 	 	 Correct number of clusters: 43
+	 	 	 	 Correct sizes of clusters: 13
+	 	 	 	 Average size error: 4.93
+
+	 	 mergefactor: 2
+	 	 	 subspace dimension: 5
+	 	 	 	 Correct number of clusters: 4
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.34
+
+	 	 	 subspace dimension: 10
+	 	 	 	 Correct number of clusters: 14
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 6.94
+
+	 	 	 subspace dimension: 15
+	 	 	 	 Correct number of clusters: 25
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 6.00
+
+	 	 	 subspace dimension: 20
+	 	 	 	 Correct number of clusters: 21
+	 	 	 	 Correct sizes of clusters: 2
+	 	 	 	 Average size error: 6.32
+
+	 	 mergefactor: 3
+	 	 	 subspace dimension: 5
+	 	 	 	 Correct number of clusters: 18
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.38
+
+	 	 	 subspace dimension: 10
+	 	 	 	 Correct number of clusters: 5
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.25
+
+	 	 	 subspace dimension: 15
+	 	 	 	 Correct number of clusters: 8
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.13
+
+	 	 	 subspace dimension: 20
+	 	 	 	 Correct number of clusters: 21
+	 	 	 	 Correct sizes of clusters: 1
+	 	 	 	 Average size error: 6.35
+
+	 	 mergefactor: 4
+	 	 	 subspace dimension: 5
+	 	 	 	 Correct number of clusters: 14
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.61
+
+	 	 	 subspace dimension: 10
+	 	 	 	 Correct number of clusters: 5
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.26
+
+	 	 	 subspace dimension: 15
+	 	 	 	 Correct number of clusters: 10
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.17
+
+	 	 	 subspace dimension: 20
+	 	 	 	 Correct number of clusters: 9
+	 	 	 	 Correct sizes of clusters: 1
+	 	 	 	 Average size error: 7.11
+
+number of clusters: 4
+	 size: 15
+	 	 mergefactor: 0
+	 	 	 subspace dimension: 5
+	 	 	 	 Correct number of clusters: 87
+	 	 	 	 Correct sizes of clusters: 87
+	 	 	 	 Average size error: 0.55
+
+	 	 	 subspace dimension: 10
+	 	 	 	 Correct number of clusters: 89
+	 	 	 	 Correct sizes of clusters: 89
+	 	 	 	 Average size error: 0.35
+
+	 	 	 subspace dimension: 15
+	 	 	 	 Correct number of clusters: 94
+	 	 	 	 Correct sizes of clusters: 94
+	 	 	 	 Average size error: 0.20
+
+	 	 	 subspace dimension: 20
+	 	 	 	 Correct number of clusters: 92
+	 	 	 	 Correct sizes of clusters: 92
+	 	 	 	 Average size error: 0.24
+
+	 	 mergefactor: 1
+	 	 	 subspace dimension: 5
+	 	 	 	 Correct number of clusters: 16
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 6.52
+
+	 	 	 subspace dimension: 10
+	 	 	 	 Correct number of clusters: 19
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 6.18
+
+	 	 	 subspace dimension: 15
+	 	 	 	 Correct number of clusters: 28
+	 	 	 	 Correct sizes of clusters: 2
+	 	 	 	 Average size error: 5.79
+
+	 	 	 subspace dimension: 20
+	 	 	 	 Correct number of clusters: 26
+	 	 	 	 Correct sizes of clusters: 4
+	 	 	 	 Average size error: 6.82
+
+	 	 mergefactor: 2
+	 	 	 subspace dimension: 5
+	 	 	 	 Correct number of clusters: 8
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 6.41
+
+	 	 	 subspace dimension: 10
+	 	 	 	 Correct number of clusters: 15
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.04
+
+	 	 	 subspace dimension: 15
+	 	 	 	 Correct number of clusters: 20
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 6.95
+
+	 	 	 subspace dimension: 20
+	 	 	 	 Correct number of clusters: 21
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.57
+
+	 	 mergefactor: 3
+	 	 	 subspace dimension: 5
+	 	 	 	 Correct number of clusters: 0
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 13.62
+
+	 	 	 subspace dimension: 10
+	 	 	 	 Correct number of clusters: 12
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 6.82
+
+	 	 	 subspace dimension: 15
+	 	 	 	 Correct number of clusters: 21
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 6.94
+
+	 	 	 subspace dimension: 20
+	 	 	 	 Correct number of clusters: 13
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.05
+
+	 	 mergefactor: 4
+	 	 	 subspace dimension: 5
+	 	 	 	 Correct number of clusters: 8
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 9.65
+
+	 	 	 subspace dimension: 10
+	 	 	 	 Correct number of clusters: 13
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.32
+
+	 	 	 subspace dimension: 15
+	 	 	 	 Correct number of clusters: 11
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.12
+
+	 	 	 subspace dimension: 20
+	 	 	 	 Correct number of clusters: 11
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.88
+
+number of clusters: 5
+	 size: 15
+	 	 mergefactor: 0
+	 	 	 subspace dimension: 5
+	 	 	 	 Correct number of clusters: 75
+	 	 	 	 Correct sizes of clusters: 75
+	 	 	 	 Average size error: 0.96
+
+	 	 	 subspace dimension: 10
+	 	 	 	 Correct number of clusters: 90
+	 	 	 	 Correct sizes of clusters: 90
+	 	 	 	 Average size error: 0.67
+
+	 	 	 subspace dimension: 15
+	 	 	 	 Correct number of clusters: 90
+	 	 	 	 Correct sizes of clusters: 90
+	 	 	 	 Average size error: 0.67
+
+	 	 	 subspace dimension: 20
+	 	 	 	 Correct number of clusters: 91
+	 	 	 	 Correct sizes of clusters: 91
+	 	 	 	 Average size error: 0.44
+
+	 	 mergefactor: 1
+	 	 	 subspace dimension: 5
+	 	 	 	 Correct number of clusters: 13
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.07
+
+	 	 	 subspace dimension: 10
+	 	 	 	 Correct number of clusters: 29
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.13
+
+	 	 	 subspace dimension: 15
+	 	 	 	 Correct number of clusters: 20
+	 	 	 	 Correct sizes of clusters: 1
+	 	 	 	 Average size error: 7.13
+
+	 	 	 subspace dimension: 20
+	 	 	 	 Correct number of clusters: 21
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.07
+
+	 	 mergefactor: 2
+	 	 	 subspace dimension: 5
+	 	 	 	 Correct number of clusters: 16
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 6.30
+
+	 	 	 subspace dimension: 10
+	 	 	 	 Correct number of clusters: 20
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 6.86
+
+	 	 	 subspace dimension: 15
+	 	 	 	 Correct number of clusters: 15
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.55
+
+	 	 	 subspace dimension: 20
+	 	 	 	 Correct number of clusters: 17
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.41
+
+	 	 mergefactor: 3
+	 	 	 subspace dimension: 5
+	 	 	 	 Correct number of clusters: 8
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 12.05
+
+	 	 	 subspace dimension: 10
+	 	 	 	 Correct number of clusters: 17
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.67
+
+	 	 	 subspace dimension: 15
+	 	 	 	 Correct number of clusters: 12
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.20
+
+	 	 	 subspace dimension: 20
+	 	 	 	 Correct number of clusters: 19
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 8.45
+
+	 	 mergefactor: 4
+	 	 	 subspace dimension: 5
+	 	 	 	 Correct number of clusters: 11
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 12.47
+
+	 	 	 subspace dimension: 10
+	 	 	 	 Correct number of clusters: 8
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.06
+
+	 	 	 subspace dimension: 15
+	 	 	 	 Correct number of clusters: 13
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 6.46
+
+	 	 	 subspace dimension: 20
+	 	 	 	 Correct number of clusters: 10
+	 	 	 	 Correct sizes of clusters: 0
+	 	 	 	 Average size error: 7.42
+
+
+Process finished with exit code 0
